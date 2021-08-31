@@ -32,7 +32,7 @@ Kind of objects a independent class to use in different objects, can be attribut
 
 ### Spring boot
 Eliminates the configuration process on spring, easy to use and create projects.
-### [Why spring?](spring.ip/whi-spring)
+### [Why spring?](https://spring.ip/whi-spring)
 * **Everywhere:** trust on the extensive libraries and resources.
 * **Flexibility** Spring's flexible with third party libraries and more.
 * **Productive:** easy and convenient to develop
@@ -40,9 +40,11 @@ Eliminates the configuration process on spring, easy to use and create projects.
 * **Secure:** Spring has a big background and security issues experience. 
 * * **Supportive:** Great and big community. 
 
-
 ## Spring Annotation
+Allows a developer to manage the bean dependencies.
+![Spring annotations](./img/anotation.png)
 ## Setup Spring
+Enter to [start](https://start.spring.io/) 
 ## Simple Rest
 ## Spring Data
 
